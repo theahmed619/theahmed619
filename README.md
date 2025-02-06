@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h5 align="center">A passionate Java Developer with a keen interest in building scalable and efficient applications. Constantly learning and exploring new technologies to enhance my skills. 🚀</h5>
 
@@ -12,7 +13,7 @@
 </p>
 
 # Tech Stack:
-<div align="center">
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
