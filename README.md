@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
+<h1 align="center">Hey, I'm Ahmed</h1>
 <h5 align="center">A passionate Java Developer with a keen interest in building scalable and efficient applications. Constantly learning and exploring new technologies to enhance my skills. 🚀</h5>
 
 
